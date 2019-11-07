@@ -1,5 +1,5 @@
 {
-	"name": "tinymce",
+	"name": "editor-mce",
 	"version": "5.1.1",
 	"repository": {
 		"type": "git",
